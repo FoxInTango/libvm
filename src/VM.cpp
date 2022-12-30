@@ -1,5 +1,5 @@
 #include "VM.h"
-//using namespace foxintango;
+using namespace foxintango;
 
 VM::VM() {
 

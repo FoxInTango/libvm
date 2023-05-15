@@ -1,2 +1,2 @@
 # libvm
-Virtual Machine for C++.
+AST and OPCODE Virtual Machine for C++ Applications.
